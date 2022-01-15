@@ -1,0 +1,5 @@
+C:\Users\Ygor_\Downloads\Cursoprogramacao-20210708T203728Z-001\Cursoprogramacao\ExercicioTeste_7_161221\Preferencias_BLL\obj\Debug\Preferencias_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Ygor_\Downloads\Cursoprogramacao-20210708T203728Z-001\Cursoprogramacao\ExercicioTeste_7_161221\Preferencias_BLL\bin\Debug\Preferencias_BLL.dll
+C:\Users\Ygor_\Downloads\Cursoprogramacao-20210708T203728Z-001\Cursoprogramacao\ExercicioTeste_7_161221\Preferencias_BLL\bin\Debug\Preferencias_BLL.pdb
+C:\Users\Ygor_\Downloads\Cursoprogramacao-20210708T203728Z-001\Cursoprogramacao\ExercicioTeste_7_161221\Preferencias_BLL\obj\Debug\Preferencias_BLL.dll
+C:\Users\Ygor_\Downloads\Cursoprogramacao-20210708T203728Z-001\Cursoprogramacao\ExercicioTeste_7_161221\Preferencias_BLL\obj\Debug\Preferencias_BLL.pdb
